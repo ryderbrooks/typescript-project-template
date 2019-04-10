@@ -1,0 +1,1 @@
+# blank Typescirpt project template
